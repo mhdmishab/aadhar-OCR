@@ -45,7 +45,7 @@ To run this project, you will need to add the following environment variables to
 
 Open a terminal and run the following command to clone this project:
 ```bash
-git clone https://github.com/shifin424/Aadhaar-OCR-System.git
+git clone https://github.com/mhdmishab/aadhar-OCR.git
  
 ```
 #### Step 2: Navigate to the Project Directory of Client 
@@ -105,7 +105,7 @@ Feel free to explore and contribute to the project, making Aadhaar information e
 
 Thank you for choosing AadhaarScan!
 
-You can access the live version of AadhaarScan [here](https://aadhaarscan.netlify.app).
+
 
 
 
